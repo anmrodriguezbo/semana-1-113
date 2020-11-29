@@ -146,7 +146,7 @@ body{
     display: inline-block;
     margin: 5px 4px 0;
     text-align: center;
-    background-color: rgb(255, 177, 148);
+    background-color: rgb(148, 255, 162);
 }
 
 .col-8{
@@ -155,7 +155,7 @@ body{
     display: inline-block;
     margin: 5px 4px 0;
     text-align: center;
-    background-color: rgb(255, 177, 148);
+    background-color: rgb(25, 27, 160);
 }
 
 .col-9{
@@ -164,7 +164,7 @@ body{
     display: inline-block;
     margin: 5px 4px 0;
     text-align: center;
-    background-color: rgb(255, 177, 148);
+    background-color: rgb(212, 10, 10);
 }
 .col-10{
     width: 19%;
@@ -172,7 +172,7 @@ body{
     display: inline-block;
     margin: 5px 4px 0;
     text-align: center;
-    background-color: rgb(255, 177, 148);
+    background-color: rgb(148, 255, 228);
 }
 
 .service-content{
