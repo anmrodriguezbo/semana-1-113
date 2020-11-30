@@ -15,11 +15,12 @@ body{
    
 .container-menu{
     height: 60px;
-    background-color: antiquewhite;
+    background-color:#D5EA7E;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     width: 100%;
+    box-shadow:inset 8px 8px 15px 8px rgba(0, 0, 0, 0.3);
 
 }
 .container-logo{
@@ -87,6 +88,11 @@ body{
     margin-top: 2px;
     height: 410px;
     background-color: rgb(83, 80, 255);
+}
+
+.separator{
+    height: 10px;
+    background-color:white;
 }
 
 .footer{
